@@ -27,7 +27,7 @@ The vision of this project is to create a fair and open gig economy that elimina
 - **Global Access**: Freelancers and clients worldwide can connect and collaborate.
 - **Low Fees**: Reduce commission costs compared to traditional platforms.
 
-- ##Contract Address
+## Contract Address
 - 0xcB431C94CD1397c986Bd77Bc045e1364fc458f62
 - <img width="1440" alt="Screenshot 2025-03-17 at 4 00 03 PM" src="https://github.com/user-attachments/assets/ae4178dd-fdbc-4712-843d-af0f02062a35" />
 
